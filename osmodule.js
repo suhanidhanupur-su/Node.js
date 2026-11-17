@@ -17,4 +17,5 @@ const cpu = os.cpus();
 console.log("Processor:", cpu[0].model);
 console.log("CPU cores:", cpu.length);
 console.log(os.cpus()[0].model)
+console.log(os.platform())
 
