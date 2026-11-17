@@ -4,7 +4,6 @@
   "description": "she is amazing",
   "license": "ISC",
   "author": "suhani",
-  "type": "commonjs",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
